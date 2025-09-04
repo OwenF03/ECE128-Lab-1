@@ -1,3 +1,6 @@
+//Owen Funk and David Riley
+//ECE 128 Lab 1
+//Designing an 8 to 1 Multiplexor
 `timescale 1ns / 1ps
 
 //8 - 1 multiplexor using structural modeling
