@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-//Owen Funk
+//Owen Funk and David Riley
 // ECE 128 Lab 1
 // Testbench file for Multiplexor module(s)
 
